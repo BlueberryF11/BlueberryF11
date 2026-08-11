@@ -7,7 +7,7 @@
 *Making music, building things, and somehow turning random ideas into actual projects.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-BlueberryF11-111111?style=flat-square&logo=github)](https://github.com/BlueberryF11)
-[![Music](https://img.shields.io/badge/Music-Blueberry%20Fruitsy-111111?style=flat-square&logo=musicbrainz)](https://open.spotify.com/)
+[![Spotify](https://img.shields.io/badge/Music-Blueberry%20Fruitsy-111111?style=flat-square&logo=musicbrainz)](https://open.spotify.com/artist/40Nsz2HbxrAxfnhB1xQLjI)
 
 </div>
 
