@@ -1,18 +1,18 @@
-# 🍓 Gabriel / Blueberry Fruitsy
+#  Gabriel / Blueberry Fruitsy
 
 <p align="center">
-  <strong>Musician • Producer • Developer • Professional Button-Presser-Until-It-Works Person</strong>
+  <strong>Musician • Producer • Developer</strong>
   <br>
-  <sub>Making music, building weird little systems, and turning ideas into things that actually exist.</sub>
+  <sub>Making songs, building weird little systems, and turning ideas into things that actually exist. Idk</sub>
 </p>
 
 ---
 
-## 🎧 About me
+##  About me
 
 Hey! I'm **Gabriel**, a musician and creative technologist working under the name **Blueberry Fruitsy**.
 
-I make **instrumental electronic music**, build websites and little software projects, and generally enjoy taking an idea that probably should have stayed a sketch and turning it into a fully functioning project.
+I make **instrumental electronic music**, build websites and little software projects, and enjoy taking an idea that probably should have stayed a sketch and turning it into a fully functioning project.
 
 Music is the center of most of what I do. I produce, experiment with sound, play percussion in marching band, and spend an unreasonable amount of time thinking about how music, software, and visual design can fit together.
 
@@ -30,44 +30,24 @@ The music is primarily **instrumental electronic**, with a focus on atmosphere, 
 
 ### 🎶 What I'm working on
 
-- 🎛️ Electronic music production
-- 🎹 Synths, MIDI, and sound design
-- 🎚️ Mixing and experimentation
-- 🖼️ Artwork and visual identity
-- 🗄️ Building an archive for my music and media
-- 🌐 Custom websites for my projects
-- 🤖 Voice and music technology experiments
+- Electronic music production
+- Synths, MIDI, and sound design
+- Mixing and experimentation
+- Artwork and visual identity
+- Custom websites for my projects
+- Voice and music technology experiments
 
 ### 📻 Listen
 
-My music is distributed through major streaming platforms, including **Spotify, Apple Music, YouTube Music, and TIDAL**.
+My music is distributed through major streaming platforms, including **Spotify, Apple Music, YouTube Music, Amazon Music, Etc.**.
 
 ---
 
 ## 🥁 Beyond the computer
 
-I'm also a **front ensemble percussionist** in the Fishers High School Tiger Marching Band, currently playing **glockenspiel**.
+I'm also a **front ensemble percussionist**.
 
 Marching percussion has become a pretty big part of my life, and it has given me a completely different way of thinking about rhythm, timing, performance, and music outside of a DAW.
-
----
-
-## 💻 Things I'm building
-
-A few of the projects scattered around my GitHub:
-
-| Project | What it is |
-| --- | --- |
-| 🍓 **Artwork Gallery** | A custom gallery for my artwork and visual archive |
-| 🖼️ **Imageserver** | The backend that stores and serves artwork for the gallery |
-| 🎵 **Blueberry Fruitsy Songs** | A repository for my music and related files |
-| 🗃️ **Blueberry Fruitsy Files** | A broader personal media/file archive |
-| 🛍️ **Blueberry Fruitsy Shop** | The code and infrastructure behind my storefront |
-| 🤖 **Blueberry Bot** | One of my various experiments with bots and automation |
-
-Some projects are polished. Some are experiments. Some exist because I thought, *"I wonder if I could make that."*
-
-That is generally how the interesting ones start.
 
 ---
 
@@ -81,9 +61,9 @@ That is generally how the interesting ones start.
 
 `JavaScript` `React` `HTML` `CSS` `Git` `GitHub` `Cloudflare` `R2` `APIs`
 
-**Other rabbit holes**
+**Other Things**
 
-`macOS virtualization` `Minecraft` `Apple Wallet` `Web Design` `Automation` `Hardware`
+`macOS & Windows` `Minecraft` `Web Design` `Automation` `Hardware`
 
 ---
 
@@ -101,10 +81,9 @@ I like figuring out how things work, breaking them accidentally, fixing them, an
 
 - 🎵 **Blueberry Fruitsy** — music and releases
 - 💻 **GitHub** — code, experiments, and questionable engineering decisions
-- 🎨 **Artwork Gallery** — visual work and artwork archive
-
+- **Social Media Platforms** - most of my channels and bro files are under the username ***@BlueberyFruitsy*** so you can find me on those.
 ---
 
 <p align="center">
-  <sub>Built by Gabriel • Powered by curiosity, caffeine, and an alarming number of browser tabs.</sub>
+  <sub>Built by Gabriel • Powered by curiosity, hope, and an alarming number of browser tabs.</sub>
 </p>
