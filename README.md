@@ -1,57 +1,64 @@
-#  Gabriel / Blueberry Fruitsy
+# Gabriel / Blueberry Fruitsy
 
 <p align="center">
   <strong>Musician • Producer • Developer</strong>
   <br>
-  <sub>Making songs, building weird little systems, and turning ideas into things that actually exist. Idk</sub>
+  <sub>Making music, building things, and somehow turning random ideas into actual projects.</sub>
 </p>
 
 ---
 
-##  About me
+## About me
 
-Hey! I'm **Gabriel**, a musician and creative technologist working under the name **Blueberry Fruitsy**.
+Hey, I'm **Gabriel**, a musician, producer, and developer making things under the name **Blueberry Fruitsy**.
 
-I make **instrumental electronic music**, build websites and little software projects, and enjoy taking an idea that probably should have stayed a sketch and turning it into a fully functioning project.
+Most of what I do somehow ends up involving music, computers, or both. I make **instrumental electronic music**, play front ensemble percussion in marching band, build websites, mess around with audio software, and generally spend way too much time figuring out how things work.
 
-Music is the center of most of what I do. I produce, experiment with sound, play percussion in marching band, and spend an unreasonable amount of time thinking about how music, software, and visual design can fit together.
+I like taking an idea that starts out as *"wait, could I actually do this?"* and seeing how far I can take it.
 
-I'm also interested in **web development, UI design, audio technology, virtual machines, automation, and unnecessarily elaborate personal projects**.
+I'm interested in **music production, web development, UI design, audio technology, virtual machines, automation, hardware, and unnecessarily complicated personal projects**.
 
-If it can be made to beep, render, deploy, or have a suspiciously complicated folder structure, there's a decent chance I've tried it.
-
----
-
-## 🎵 Blueberry Fruitsy
-
-**Blueberry Fruitsy** is my music project and artist name.
-
-The music is primarily **instrumental electronic**, with a focus on atmosphere, rhythm, synths, melodic ideas, and production experiments. I like making tracks that feel like they belong to some larger digital world rather than simply existing as standalone songs.
-
-### 🎶 What I'm working on
-
-- Electronic music production
-- Synths, MIDI, and sound design
-- Mixing and experimentation
-- Artwork and visual identity
-- Custom websites for my projects
-- Voice and music technology experiments
-
-### 📻 Listen
-
-My music is distributed through major streaming platforms, including **Spotify, Apple Music, YouTube Music, Amazon Music, Etc.**.
+A lot of my projects start because I want something that doesn't exist yet. So I end up making it.
 
 ---
 
-## 🥁 Beyond the computer
+## Blueberry Fruitsy
 
-I'm also a **front ensemble percussionist**.
+**Blueberry Fruitsy** is my artist name and music project.
 
-Marching percussion has become a pretty big part of my life, and it has given me a completely different way of thinking about rhythm, timing, performance, and music outside of a DAW.
+I make mostly **instrumental electronic music**, usually built around synths, rhythm, melodies, sound design, and whatever else I feel like experimenting with.
+
+I don't really want everything I make to sound the same. A lot of the fun for me is trying something weird, changing things around, and seeing what happens.
+
+I'm also interested in the visual side of music, so I build websites, artwork galleries, and other little systems around my projects instead of just throwing songs onto streaming services and calling it done.
+
+### Currently working on
+
+* Electronic music production
+* Synths, MIDI, and sound design
+* Mixing and production experiments
+* Artwork and visual identity
+* Websites and personal projects
+* Voice and music technology
+* Probably several things I haven't finished yet
+
+### Listen
+
+My music is available on major streaming platforms including **Spotify, Apple Music, YouTube Music, and Amazon Music**.
 
 ---
 
-## 🧰 Stuff I like working with
+## Marching percussion
+
+Outside of making music on a computer, I'm a **front ensemble percussionist**.
+
+Marching band has become a pretty big part of my life, and playing percussion has taught me a lot about rhythm, timing, listening, and actually performing music instead of just staring at it inside a DAW.
+
+I currently play **glockenspiel** in the front ensemble.
+
+---
+
+## Things I work with
 
 **Music & Audio**
 
@@ -61,29 +68,34 @@ Marching percussion has become a pretty big part of my life, and it has given me
 
 `JavaScript` `React` `HTML` `CSS` `Git` `GitHub` `Cloudflare` `R2` `APIs`
 
-**Other Things**
+**Other stuff**
 
-`macOS & Windows` `Minecraft` `Web Design` `Automation` `Hardware`
+`Windows` `macOS` `Minecraft` `Web Design` `Automation` `Hardware` `Virtual Machines`
 
 ---
 
-## 🧪 Current philosophy
+## How I tend to work
 
 > **If the normal way doesn't exist, build the weird way.**
 
-I'm still learning a lot, and plenty of my projects are experiments rather than finished products. That's kind of the point.
+I'm still learning a lot, and honestly, some of my projects are held together by questionable decisions and the fact that I refused to give up on them.
 
-I like figuring out how things work, breaking them accidentally, fixing them, and occasionally ending up with something better than what I originally imagined.
+I like figuring out how things work, breaking them accidentally, figuring out why I broke them, and eventually making them work again.
+
+Not everything I make is supposed to become some huge polished project. Sometimes I just want to see if I can do something.
+
+And sometimes that turns into a whole fucking project.
 
 ---
 
-## 📂 Find me around the internet
+## Find me around the internet
 
-- 🎵 **Blueberry Fruitsy** — music and releases
-- 💻 **GitHub** — code, experiments, and questionable engineering decisions
-- **Social Media Platforms** - most of my channels and bro files are under the username ***@BlueberyFruitsy*** so you can find me on those.
+* **Blueberry Fruitsy** — music and releases
+* **GitHub** — code, experiments, and things I probably overcomplicated
+* **Social media** — most of my accounts use **@BlueberryFruitsy**
+
 ---
 
 <p align="center">
-  <sub>Built by Gabriel • Powered by curiosity, hope, and an alarming number of browser tabs.</sub>
+  <sub>Built by Gabriel • Powered by curiosity, questionable ideas, and an alarming number of browser tabs.</sub>
 </p>
