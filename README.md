@@ -109,7 +109,7 @@ I like figuring out how things work, breaking them accidentally, figuring out wh
 
 Not everything needs to become a huge finished project. Sometimes I just want to see if I can do something.
 
-And sometimes that turns into a whole fucking project.
+And sometimes that turns into a whole project.
 
 ---
 
