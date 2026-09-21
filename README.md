@@ -17,15 +17,15 @@
 
 Hey, I'm **Gabriel**. I'm a musician, producer, developer, and the person behind **Blueberry Fruitsy**.
 
-Most of what I do somehow ends up involving music, computers, or both. I make **instrumental electronic music**, play front ensemble percussion in marching band, build websites, mess with audio software, and spend a frankly unreasonable amount of time figuring out how things work.
+A lot of what I do somehow ends up involving music, computers, or both. I make **instrumental electronic music**, play front ensemble percussion in marching band, build websites, mess with audio software, and spend a pretty unreasonable amount of time figuring out how things work.
 
 A lot of my projects start with some variation of:
 
 > *"Wait, could I actually make that?"*
 
-Usually, I try.
+a lot of times, I try.
 
-I'm interested in **music production, web development, UI design, audio technology, virtual machines, automation, hardware, and unnecessarily complicated personal projects**.
+I'm interested in **music production, web development, UI design, audio technology, virtual machines, automation, hardware, and very unnecessarily complicated personal projects** XD.
 
 I like making things that don't already exist, especially when the normal way of doing something isn't quite what I want.
 
@@ -35,11 +35,11 @@ I like making things that don't already exist, especially when the normal way of
 
 **Blueberry Fruitsy** is my artist name and music project.
 
-I make mostly **instrumental electronic music**, built around synths, rhythm, melodies, sound design, and whatever production idea I'm currently obsessed with.
+I make mostly **instrumental electronic music**, built around synths, rhythm, melodies, sound design, and basically whatever production idea I'm currently obsessed with.
 
-I don't really want everything I make to sound the same. Experimenting is a big part of it. Sometimes a track starts with an actual plan. Sometimes I just start messing with sounds and see where it goes.
+I don't really want everything I make to sound the same. Experimenting is a big part of it. ***Sometimes*** a track starts with an actual plan. Other times, I just start messing with sounds and see where it goes.
 
-I also like building the stuff around the music: artwork, websites, archives, little tools, and other systems that make the project feel like more than just a list of songs.
+I also like building the stuff around the music: artwork, websites, archives, stupid tools, and other systems that make the project feel like more than just a list of songs.
 
 ### Currently working on
 
@@ -48,12 +48,12 @@ I also like building the stuff around the music: artwork, websites, archives, li
 | Electronic production | Personal websites |
 | Synths & MIDI | Artwork gallery |
 | Sound design | Image server |
-| Mixing experiments | Music archives |
-| Voice & music technology | Various questionable experiments |
+| Mixing experiments | Music Archive |
+| Voice & music technology | Various *questionable* experiments |
 
 ### Listen
 
-My music is available on major streaming platforms including **Spotify, Apple Music, YouTube Music, and Amazon Music**.
+My music is available on almost all major streaming platforms including **Spotify, Apple Music, YouTube Music, and Amazon Music**.
 
 ---
 
@@ -71,7 +71,7 @@ I currently play **glockenspiel** in the front ensemble.
 
 ### Music & audio
 
-`Cubase` `GarageBand` `BandLab` `MIDI` `UTAU` `VSTs` `Sound Design`
+`Cubase` `Logic Pro` `GarageBand` `BandLab` `MIDI` `UTAU` `VSTs` `Sound Design`
 
 ### Development
 
@@ -95,7 +95,7 @@ A few things I've built, worked on, or am currently making:
 | **Music Archive** | A place for organizing and experimenting with my music projects |
 | **Various experiments** | Small tools, websites, audio projects, virtual machines, and whatever else I decide to try |
 
-Most of these started as a small idea and then somehow became a whole thing.
+Most of these started as a small idea and then became a whole thing.
 
 ---
 
@@ -103,9 +103,9 @@ Most of these started as a small idea and then somehow became a whole thing.
 
 > **If the normal way doesn't exist, build the weird way.**
 
-I'm still learning a lot. Some of my projects are polished. Some are experiments. Some are held together by questionable decisions and the fact that I refused to give up on them.
+I'm still learning a lot. Some of my projects are polished. Some are experiments. Some are held together by *questionable* decisions and the fact that I refused to give up on them.
 
-I like figuring out how things work, breaking them accidentally, figuring out why I broke them, and eventually making them work again.
+I like figuring out how things work, breaking them accidentally(i really don’t but we don’t talk about that,) figuring out why I broke them, and ***eventually*** making them work again.
 
 Not everything needs to become a huge finished project. Sometimes I just want to see if I can do something.
 
